@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+    color: #202020;
+}
+#title {
+	text-align: center;
+}
+#subtitle {
+	text-align: center;
+}
+.links {
+	text-align: center;
+}
+.fullCard {
+	background-color: #E8E8E8;
+	border-radius: 5px;
+	margin: 30px 5px;
+	padding: 4px;
+}
+.cardImage {
+	padding: 10px;
+	background-color: white;
+}
+#image {
+	display: block;
+    margin: 0 auto;
+    max-width:100%;
+    height:auto;
+}
+#img-caption {
+	text-align: center;
+}
+
+.cardContent {
+	padding: 10px;
+}
+.cardText {
+	padding-left: auto;
+	padding-right: auto;
+	font-size: 17px;
+}
+.testimony {
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+	font-style: italic;
+	font-size: 17px;
+}
+ul li { padding: 5px 0px; }
